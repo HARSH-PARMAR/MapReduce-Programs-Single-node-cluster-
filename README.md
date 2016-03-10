@@ -1,0 +1,2 @@
+# MapReduce-Programs-Single-node-cluster-
+This repository consist of MR programs with their respective data sets. This programs are in java language and runs on HDFS cluster consisting of a single NameNode, a master server that manages the file system namespace and regulates access to files by clients. In addition, there are a number of DataNodes, usually one per node in the cluster, which manage storage attached to the nodes that they run on.
